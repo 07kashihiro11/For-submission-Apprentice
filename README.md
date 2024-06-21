@@ -1,1 +1,1 @@
-# For-submission-Apprentice
+# アプレンティスWebテスト提出用です。
